@@ -1,7 +1,5 @@
 rm(list = ls())
 
-setwd("/Users/mmejiaj/Library/Mobile Documents/com~apple~CloudDocs/Unibo/Forecasting/Project")
-
 #Load dataset
 
 library(dplyr)
